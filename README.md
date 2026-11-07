@@ -49,3 +49,6 @@ Domain: Web Development and Designing
 Project: Web Calculator
 This project was created for learning and practicing front-end web
 development.
+
+Deployed the project through netlify website.
+https://webcalculatoryash.netlify.app
